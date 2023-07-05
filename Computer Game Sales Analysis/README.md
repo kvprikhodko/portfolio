@@ -10,4 +10,4 @@ trends of recent years, popular genres, platforms, regions, correlations were fo
 
 `Pandas`, `Numpy`, `SciPy`
 
-data preprocessing, exploratory data analysis, data visualization, descriptive statistics, testing of statistical hypotheses
+data preprocessing, exploratory data analysis, correlation, data visualization, descriptive statistics, testing of statistical hypotheses
